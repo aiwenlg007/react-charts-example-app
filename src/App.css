@@ -36,3 +36,49 @@
     transform: rotate(360deg);
   }
 }
+
+.LightChart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background: #0c0c0c;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+}
+
+a:hover {
+  color: #00bfff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+input, textarea {
+  background: #1a1a1a;
+  color: #fff;
+  border: 1px solid #999;
+}
+
+input:focus, textarea:focus {
+  border: 1px solid #00bfff;
+}
+
+button {
+  background: #00bfff;
+  color: #fff;
+}
+
+button:hover {
+  background: #0a8ccd;
+}
